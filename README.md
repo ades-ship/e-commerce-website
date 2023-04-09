@@ -5,6 +5,5 @@ tech stack i had used here:
 Reseach: google fonts,MDN.
 
 You can access the website by click on the link: https://ades-ship.github.io/e-commerce-website/
-# [github pages](https://github.com)
-# You can host you site on hostinger directly: # [Hostinger](https://hostinger.com)
+# You can host you site on directly: # [Hostinger](https://hostinger.com) , # [github pages](https://github.com)
 
