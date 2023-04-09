@@ -6,4 +6,5 @@ Reseach: google fonts,MDN.
 
 You can access the website by click on the link: https://ades-ship.github.io/e-commerce-website/
 # [github pages](https://github.com)
-# [Hostinger](https://hostinger.com)
+# You can host you site on hostinger directly: # [Hostinger](https://hostinger.com)
+
